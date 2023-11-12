@@ -1,4 +1,4 @@
-# JavaScript Code Practice Repository
+# JavaScript + React Code Practice
 
 Welcome to my JavaScript code practice repository! This collection encompasses various exercises and practices covering front-end development with React, back-end development with Node.js, and other essential concepts.
 
@@ -64,4 +64,4 @@ Welcome to my JavaScript code practice repository! This collection encompasses v
 - Understand ES6 features such as let, const, arrow functions, and spread syntax.
 - Explore higher-order functions, array methods (map, filter, reduce), and object-oriented programming in JavaScript.
 
-Feel free to explore each code practice and enhance your skills in various JavaScript technologies.:😊👩‍💻💻
+Feel free to explore each code practice and enhance your skills in various JavaScript technologies😊👩‍💻💻
